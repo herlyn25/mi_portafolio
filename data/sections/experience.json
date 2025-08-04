@@ -1,0 +1,19 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Expirience",
+                "title_short_nav": "Expirience",
+                "title_long_prefix": "Summary of my",
+                "title_long": "Work {{Expirience}}"
+            },
+            "es": {
+                "title_short": "Experiencia",
+                "title_short_nav": "Experiencia",
+                "title_long_prefix": "Resumen de mi",
+                "title_long": "Experiencia {{Laboral}}"
+            }
+        }
+    },
+    "articles": []
+}
