@@ -30,7 +30,7 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "",
+                    "img": "images/pictures/avatar.png",
                     "faIcon": "fa-solid fa-laptop",
                     "faIconColors": {"bg": "", "fill": "", "fillLight": ""},
                     "locales": {
