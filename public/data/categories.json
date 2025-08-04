@@ -6,6 +6,9 @@
             "locales": {
                 "en": {
                     "title": "Home"
+                },
+                "es": {
+                    "title": "Inicio"
                 }
             }
         },
@@ -15,6 +18,9 @@
             "locales": {
                 "en": {
                     "title": "History"
+                },
+                "es":{
+                    "title" : "Formación y Trayectoria"
                 }
             }
         },
@@ -24,6 +30,9 @@
             "locales": {
                 "en": {
                     "title": "Showcase"
+                },
+                "es":{
+                    "title" : "Perfil Profesional"
                 }
             }
         },
@@ -33,6 +42,9 @@
             "locales": {
                 "en": {
                     "title": "More"
+                },
+                "es":{
+                    "title" : "Mas"
                 }
             }
         }

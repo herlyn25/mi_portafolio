@@ -1,5 +1,5 @@
 {
-    "name": "John Doe",
+    "name": "Herly Castillo",
     "profilePictureUrl": "images/pictures/pfp.png",
     "resumePdfUrl": "",
     "statusCircleVisible": true,
@@ -7,11 +7,23 @@
     "statusCircleHoverMessage": "status_message_available_for_freelance",
     "locales": {
         "en": {
-            "localized_name": "John Doe",
-            "localized_name_stylized": "<strong>John {{Doe}}</strong>",
+            "localized_name": "Herly Castillo",
+            "localized_name_stylized": "<strong>Herly {{Castillo}}</strong>",
             "status_message_available_for_freelance": "Available for freelance!",
             "roles": [
-                "Procrastinator"
+                "Backend Developer",
+                "Frontend Developer"
+            ],
+            "name_pronunciation_ipa": "",
+            "name_pronunciation_audio_url": ""
+        },
+        "es": {
+            "localized_name": "Herly Castillo",
+            "localized_name_stylized": "<strong>Herly {{Castillo}}</strong>",
+            "status_message_available_for_freelance": "Disponible para freelance!",
+            "roles": [
+                "Backend Developer",
+                "Frontend Developer"
             ],
             "name_pronunciation_ipa": "",
             "name_pronunciation_audio_url": ""

@@ -7,8 +7,8 @@
     },
     "preloaderSettings": {
         "enabled": true,
-        "title": "React <b>Portfolio</b>",
-        "subtitle": "by Ryan Balieiro",
+        "title": "Mi <b>Portfolio</b>",
+        "subtitle": "by Herly Castillo",
         "logoOffset": {
             "right": 14,
             "top": 2,
@@ -28,6 +28,11 @@
             "name": "English",
             "id": "en",
             "flagUrl": "images/flags/en-us.png"
+        },
+        {
+            "name": "Español",
+            "id": "es",
+            "flagUrl": "images/flags/es-co.png"
         }
     ],
     "supportedThemes": [
