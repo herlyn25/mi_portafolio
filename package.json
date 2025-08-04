@@ -3,18 +3,22 @@
     "private": true,
     "version": "2.0.3",
     "type": "module",
+    "hompage":"https://herlyn25.github.io/mi_portafolio",
     "scripts": {
         "dev": "vite",
         "build": "vite build",
         "lint": "eslint .",
         "preview": "vite preview",
         "resume:make:article": "node npm/npm-resume-new-article.js",
-        "resume:clear": "node npm/npm-resume-clear.js"
+        "resume:clear": "node npm/npm-resume-clear.js",
+        "predeploy":"vite build",
+        "deploy": "gh-pages -d dist"
     },
     "dependencies": {
         "@emailjs/browser": "^4.4.1",
         "@fortawesome/fontawesome-free": "^6.6.0",
         "bootstrap": "^5.3.3",
+        "gh-pages": "^6.3.0",
         "primeicons": "^7.0.0",
         "react": "^18.3.1",
         "react-bootstrap": "^2.10.4",
